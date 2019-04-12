@@ -26,4 +26,6 @@ df.sort_values('similar_ids_len', ascending=False)
  - аргумент ***radius*** метода ***predict*** - это мера схожести элементов, то есть с каким уровнем схожести считать элементы похожими
  - ***similar_id*** - идентификаторы похожих записей
  
+ Установка зависимостей ***pip install -r requirements.txt***
+ 
  ![title](https://github.com/php-job/textLib/blob/master/sc1.png)
